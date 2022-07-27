@@ -69,6 +69,12 @@ import javax.swing.SwingConstants;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerNumberModel;
 
+/**
+*
+* @author Raphael Helaers
+*
+*/
+
 public class EvoSimulatorApp extends JFrame {
 	public enum Language {en, fr}
 	
