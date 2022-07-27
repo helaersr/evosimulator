@@ -43,6 +43,11 @@ The controls on the currently running simulation are as follows:
 - The third button allows you to reset the default settings.
 - The box "Nbr of generations before pausing" next to the population size panel allows automatically pausing the simulation every X generations.
 
+## Creators
 Raphaël Helaers & Michel C. Milinkovitch, 2007 et 2020
 
 https://www.lanevol.org
+
+
+## Screenshot
+![screenshot](./documentation/screenshot_1.png)
